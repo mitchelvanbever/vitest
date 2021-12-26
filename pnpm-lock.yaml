@@ -257,7 +257,7 @@ importers:
       vite: 2.7.6
       vitest: link:../../packages/vitest
 
-  test/msw-testing-lib-react:
+  test/react-testing-lib-msw:
     specifiers:
       '@testing-library/react': ^12.1.2
       '@testing-library/user-event': ^13.5.0
